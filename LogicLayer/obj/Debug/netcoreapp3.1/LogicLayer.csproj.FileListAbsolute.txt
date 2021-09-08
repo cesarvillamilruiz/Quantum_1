@@ -1,0 +1,12 @@
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.deps.json
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.dll
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\bin\Debug\netcoreapp3.1\LogicLayer.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.AssemblyInfoInputs.cache
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.AssemblyInfo.cs
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csproj.CoreCompileInputs.cache
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.dll
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csprojAssemblyReference.cache
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\LogicLayer\obj\Debug\netcoreapp3.1\LogicLayer.csproj.CopyComplete

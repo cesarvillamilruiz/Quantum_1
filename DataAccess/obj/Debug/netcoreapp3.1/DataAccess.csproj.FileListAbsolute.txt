@@ -1,0 +1,12 @@
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Desarrollo\ResposDePrueba\.Net\PruebaQuantumConnexion\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
