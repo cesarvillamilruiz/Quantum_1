@@ -4,6 +4,5 @@ namespace LogicLayer.Interfaces
 {
     public interface IProductoRepository : IGenericRepository<Producto>
     {
-
     }
 }

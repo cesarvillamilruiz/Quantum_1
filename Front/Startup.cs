@@ -1,4 +1,6 @@
 using DataAccess.DataAccess;
+using LogicLayer.Interfaces;
+using LogicLayer.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -33,6 +35,8 @@ namespace Front
             {
                 cfg.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
             });
+
+            services.AddScoped<IProductoRepository, ProductoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
