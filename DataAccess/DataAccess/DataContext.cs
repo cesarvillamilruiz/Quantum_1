@@ -10,5 +10,7 @@ namespace DataAccess.DataAccess
 
         }
         public DbSet<Producto> Producto { get; set; }
+        public DbSet<Factura> Factura { get; set; }
+        public DbSet<DetalleFactura> DetalleFactura { get; set; }
     }
 }
